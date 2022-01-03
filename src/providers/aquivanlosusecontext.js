@@ -1,0 +1,1 @@
+//aquí van los js que incluyen el hook useContext que se usa para definir estados globales de la aplicación. Es parecido a Redux. usecontext se complementa con el hook usereducer.
